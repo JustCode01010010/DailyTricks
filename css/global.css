@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 0 7rem;
+}
+
+/* body{
+    background-color: red;
+} */
+.body-content {
+  min-height: calc(100vh - 72.69px - 83px);
+}
+.page-container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 1207px) {
+  body {
+    padding: 0;
+  }
+  .body-content {
+    padding: 0 2rem;
+  }
+}
+
+@media (max-width: 429px) {
+  .body-content {
+    padding: 0 1rem;
+  }
+}
