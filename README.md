@@ -14,3 +14,4 @@ The site is built with all the basic and necessary features required to function
 
 * Navigation Bar
 
+![nav-bar](https://user-images.githubusercontent.com/33554964/151682284-c2e0cad1-92ba-4d49-9015-b844a5071d62.jpg)
